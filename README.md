@@ -1,1 +1,1 @@
-# Re-sizing-images-using-python
+# Re sizing images using python
