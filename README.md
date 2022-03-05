@@ -15,10 +15,11 @@ This is a mini project which is a sub part of an upcoming project. This project 
 <h2><b> EXPECTATIONS FROM THIS PROJECT : </b></h2>
 
 <h4> INPUT: (500 X 500) </h4>
-![stock-image-3](https://user-images.githubusercontent.com/80255503/156891125-beb8e731-1036-477c-b274-5f3e618f08d6.jpg)
+
+![stock-image-3](https://user-images.githubusercontent.com/80255503/156891165-928f2437-47cc-4c04-89a7-70ec6ec7d1a9.jpg)
 
 
-<h4> OUTPUT: (500 X 500) </h4>
+<h4> OUTPUT: (250 X 250) </h4>
 
 ![resized_image24](https://user-images.githubusercontent.com/80255503/156891133-696ba1b0-0320-41c4-af80-833de10e191c.jpg)
 
